@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FitMyLife</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="email_ID">Email ID</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account">Creat new account</string>
+    <string name="full_name">FullName</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_account">Already have an account.login</string>
+    <string name="register_subtitle">Join FitMyLife and start your journey</string>
+    <string name="login_subtitle">Welcome back to FitMyLife</string>
+    <string name="password">Password</string>
+    <string name="user_name">user name</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="daily_habits">Daily Habits</string>
+    <string name="fitness_goals">Fitness Goals</string>
+    <string name="track_habit">Track Habit</string>
+    <string name="workout">Workout</string>
+    <string name="meal_plan">Meal Plan</string>
+    <string name="today_progress">Today\'s Progress</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="logout">Logout</string>
+    <string name="splash_tagline">Fit Your Life, Your Way</string>
+    <string name="hi_user">Hi, %1$s</string>
+    <string name="continue_with">or continue with</string>
+
+</resources>
